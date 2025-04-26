@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+/build
+Project/MDK-ARM/Objects
 # Object files
 *.o
 *.ko
